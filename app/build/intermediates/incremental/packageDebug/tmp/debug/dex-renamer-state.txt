@@ -1,0 +1,4 @@
+#Sat Oct 22 12:08:59 PST 2022
+base.0=/Users/six519/Workspace/f1-android/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

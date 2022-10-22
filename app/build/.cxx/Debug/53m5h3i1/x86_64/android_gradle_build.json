@@ -1,0 +1,124 @@
+{
+  "buildFiles": [
+    "/Users/six519/Workspace/f1-android/app/jni/Android.mk",
+    "/Users/six519/Workspace/f1-android/app/jni/Application.mk"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/six519/Library/Android/sdk/ndk/21.4.7075529/ndk-build",
+      "NDK_PROJECT_PATH\u003dnull",
+      "APP_BUILD_SCRIPT\u003d/Users/six519/Workspace/f1-android/app/jni/Android.mk",
+      "NDK_APPLICATION_MK\u003d/Users/six519/Workspace/f1-android/app/jni/Application.mk",
+      "APP_ABI\u003dx86_64",
+      "NDK_ALL_ABIS\u003dx86_64",
+      "NDK_DEBUG\u003d1",
+      "NDK_OUT\u003d/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/obj",
+      "NDK_LIBS_OUT\u003d/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/lib",
+      "APP_PLATFORM\u003dandroid-16",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/six519/Library/Android/sdk/ndk/21.4.7075529/ndk-build",
+    "NDK_PROJECT_PATH\u003dnull",
+    "APP_BUILD_SCRIPT\u003d/Users/six519/Workspace/f1-android/app/jni/Android.mk",
+    "NDK_APPLICATION_MK\u003d/Users/six519/Workspace/f1-android/app/jni/Application.mk",
+    "APP_ABI\u003dx86_64",
+    "NDK_ALL_ABIS\u003dx86_64",
+    "NDK_DEBUG\u003d1",
+    "NDK_OUT\u003d/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/obj",
+    "NDK_LIBS_OUT\u003d/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/lib",
+    "APP_PLATFORM\u003dandroid-16",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "main-debug-x86_64": {
+      "buildCommandComponents": [
+        "/Users/six519/Library/Android/sdk/ndk/21.4.7075529/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/Users/six519/Workspace/f1-android/app/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/Users/six519/Workspace/f1-android/app/jni/Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d1",
+        "NDK_OUT\u003d/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/obj",
+        "NDK_LIBS_OUT\u003d/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/lib",
+        "APP_PLATFORM\u003dandroid-16",
+        "/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/obj/local/x86_64/libmain.so"
+      ],
+      "toolchain": "toolchain-x86_64",
+      "abi": "x86_64",
+      "artifactName": "main",
+      "output": "/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/obj/local/x86_64/libmain.so"
+    },
+    "cpufeatures-debug-x86_64": {
+      "buildCommandComponents": [
+        "/Users/six519/Library/Android/sdk/ndk/21.4.7075529/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/Users/six519/Workspace/f1-android/app/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/Users/six519/Workspace/f1-android/app/jni/Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d1",
+        "NDK_OUT\u003d/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/obj",
+        "NDK_LIBS_OUT\u003d/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/lib",
+        "APP_PLATFORM\u003dandroid-16",
+        "/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/obj/local/x86_64/libcpufeatures.a"
+      ],
+      "toolchain": "toolchain-x86_64",
+      "abi": "x86_64",
+      "artifactName": "cpufeatures",
+      "output": "/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/obj/local/x86_64/libcpufeatures.a"
+    },
+    "SDL2_mixer-debug-x86_64": {
+      "buildCommandComponents": [
+        "/Users/six519/Library/Android/sdk/ndk/21.4.7075529/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/Users/six519/Workspace/f1-android/app/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/Users/six519/Workspace/f1-android/app/jni/Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d1",
+        "NDK_OUT\u003d/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/obj",
+        "NDK_LIBS_OUT\u003d/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/lib",
+        "APP_PLATFORM\u003dandroid-16",
+        "/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/obj/local/x86_64/libSDL2_mixer.so"
+      ],
+      "toolchain": "toolchain-x86_64",
+      "abi": "x86_64",
+      "artifactName": "SDL2_mixer",
+      "output": "/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/obj/local/x86_64/libSDL2_mixer.so"
+    },
+    "SDL2-debug-x86_64": {
+      "buildCommandComponents": [
+        "/Users/six519/Library/Android/sdk/ndk/21.4.7075529/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/Users/six519/Workspace/f1-android/app/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/Users/six519/Workspace/f1-android/app/jni/Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d1",
+        "NDK_OUT\u003d/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/obj",
+        "NDK_LIBS_OUT\u003d/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/lib",
+        "APP_PLATFORM\u003dandroid-16",
+        "/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/obj/local/x86_64/libSDL2.so"
+      ],
+      "toolchain": "toolchain-x86_64",
+      "abi": "x86_64",
+      "artifactName": "SDL2",
+      "output": "/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/obj/local/x86_64/libSDL2.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-x86_64": {
+      "cCompilerExecutable": "/Users/six519/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+      "cppCompilerExecutable": "/Users/six519/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "buildFiles": [
+    "/Users/six519/Workspace/f1-android/app/jni/Android.mk",
+    "/Users/six519/Workspace/f1-android/app/jni/Application.mk"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/six519/Library/Android/sdk/ndk/21.4.7075529/ndk-build",
+      "NDK_PROJECT_PATH\u003dnull",
+      "APP_BUILD_SCRIPT\u003d/Users/six519/Workspace/f1-android/app/jni/Android.mk",
+      "NDK_APPLICATION_MK\u003d/Users/six519/Workspace/f1-android/app/jni/Application.mk",
+      "APP_ABI\u003darm64-v8a",
+      "NDK_ALL_ABIS\u003darm64-v8a",
+      "NDK_DEBUG\u003d1",
+      "NDK_OUT\u003d/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/obj",
+      "NDK_LIBS_OUT\u003d/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/lib",
+      "APP_PLATFORM\u003dandroid-16",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/six519/Library/Android/sdk/ndk/21.4.7075529/ndk-build",
+    "NDK_PROJECT_PATH\u003dnull",
+    "APP_BUILD_SCRIPT\u003d/Users/six519/Workspace/f1-android/app/jni/Android.mk",
+    "NDK_APPLICATION_MK\u003d/Users/six519/Workspace/f1-android/app/jni/Application.mk",
+    "APP_ABI\u003darm64-v8a",
+    "NDK_ALL_ABIS\u003darm64-v8a",
+    "NDK_DEBUG\u003d1",
+    "NDK_OUT\u003d/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/obj",
+    "NDK_LIBS_OUT\u003d/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/lib",
+    "APP_PLATFORM\u003dandroid-16",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "main-debug-arm64-v8a": {
+      "artifactName": "main",
+      "buildCommandComponents": [
+        "/Users/six519/Library/Android/sdk/ndk/21.4.7075529/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/Users/six519/Workspace/f1-android/app/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/Users/six519/Workspace/f1-android/app/jni/Application.mk",
+        "APP_ABI\u003darm64-v8a",
+        "NDK_ALL_ABIS\u003darm64-v8a",
+        "NDK_DEBUG\u003d1",
+        "NDK_OUT\u003d/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/obj",
+        "NDK_LIBS_OUT\u003d/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/lib",
+        "APP_PLATFORM\u003dandroid-16",
+        "/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/obj/local/arm64-v8a/libmain.so"
+      ],
+      "abi": "arm64-v8a",
+      "output": "/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/obj/local/arm64-v8a/libmain.so",
+      "runtimeFiles": []
+    },
+    "SDL2_mixer-debug-arm64-v8a": {
+      "artifactName": "SDL2_mixer",
+      "buildCommandComponents": [
+        "/Users/six519/Library/Android/sdk/ndk/21.4.7075529/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/Users/six519/Workspace/f1-android/app/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/Users/six519/Workspace/f1-android/app/jni/Application.mk",
+        "APP_ABI\u003darm64-v8a",
+        "NDK_ALL_ABIS\u003darm64-v8a",
+        "NDK_DEBUG\u003d1",
+        "NDK_OUT\u003d/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/obj",
+        "NDK_LIBS_OUT\u003d/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/lib",
+        "APP_PLATFORM\u003dandroid-16",
+        "/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/obj/local/arm64-v8a/libSDL2_mixer.so"
+      ],
+      "abi": "arm64-v8a",
+      "output": "/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/obj/local/arm64-v8a/libSDL2_mixer.so",
+      "runtimeFiles": []
+    },
+    "SDL2-debug-arm64-v8a": {
+      "artifactName": "SDL2",
+      "buildCommandComponents": [
+        "/Users/six519/Library/Android/sdk/ndk/21.4.7075529/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/Users/six519/Workspace/f1-android/app/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/Users/six519/Workspace/f1-android/app/jni/Application.mk",
+        "APP_ABI\u003darm64-v8a",
+        "NDK_ALL_ABIS\u003darm64-v8a",
+        "NDK_DEBUG\u003d1",
+        "NDK_OUT\u003d/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/obj",
+        "NDK_LIBS_OUT\u003d/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/lib",
+        "APP_PLATFORM\u003dandroid-16",
+        "/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/obj/local/arm64-v8a/libSDL2.so"
+      ],
+      "abi": "arm64-v8a",
+      "output": "/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/obj/local/arm64-v8a/libSDL2.so",
+      "runtimeFiles": []
+    },
+    "cpufeatures-debug-arm64-v8a": {
+      "artifactName": "cpufeatures",
+      "buildCommandComponents": [
+        "/Users/six519/Library/Android/sdk/ndk/21.4.7075529/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/Users/six519/Workspace/f1-android/app/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/Users/six519/Workspace/f1-android/app/jni/Application.mk",
+        "APP_ABI\u003darm64-v8a",
+        "NDK_ALL_ABIS\u003darm64-v8a",
+        "NDK_DEBUG\u003d1",
+        "NDK_OUT\u003d/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/obj",
+        "NDK_LIBS_OUT\u003d/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/lib",
+        "APP_PLATFORM\u003dandroid-16",
+        "/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/obj/local/arm64-v8a/libcpufeatures.a"
+      ],
+      "abi": "arm64-v8a",
+      "output": "/Users/six519/Workspace/f1-android/app/build/intermediates/cxx/Debug/53m5h3i1/obj/local/arm64-v8a/libcpufeatures.a",
+      "runtimeFiles": []
+    }
+  }
+}

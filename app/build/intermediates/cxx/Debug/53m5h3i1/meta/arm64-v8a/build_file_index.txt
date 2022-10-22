@@ -1,0 +1,2 @@
+/Users/six519/Workspace/f1-android/app/jni/Android.mk
+/Users/six519/Workspace/f1-android/app/jni/Application.mk
