@@ -11,7 +11,7 @@ android {
     compileSdkVersion 31
     defaultConfig {
         if (buildAsApplication) {
-            applicationId "org.libsdl.app"
+            applicationId "com.ferdinandsilva.f1"
         }
         minSdkVersion 16
         targetSdkVersion 31
@@ -62,7 +62,7 @@ android {
             variant.outputs.each { output ->
                 def outputFile = output.outputFile
                 if (outputFile != null && outputFile.name.endsWith(".aar")) {
-                    def fileName = "org.libsdl.app.aar";
+                    def fileName = "com.ferdinandsilva.f1.aar";
                     output.outputFile = new File(outputFile.parent, fileName);
                 }
             }
